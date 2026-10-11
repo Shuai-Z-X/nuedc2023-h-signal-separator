@@ -1,0 +1,62 @@
+﻿==== PART 0 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"RH-5116.1"}|
+==== PART 1 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"电阻.1"}|
+==== PART 2 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"RC0805FR-7W10KL.1"}|
+==== PART 3 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"BAT54SLT1G.1"}|
+==== PART 4 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 5 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"NE5532DR.1"}|
+==== PART 6 ====
+{"BBOX":[-20.5,-20.5,20.5,20.5],"title":"NE5532DR.1"}|
+{"type":"PART","ticket":3,"id":"NE5532DR.2"}|
+==== PART 7 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 8 ====
+{"docType":"SYMBOL","client":"0d34d55779000131","uuid":"ccf1aa0cb1bc6a15","updateTime":1789040583549,"version":"1789040349","editVersion":"3.2.91","user":{"uuid":"ccf1aa0cb1bc6a15"}}|
+{"type":"PART","ticket":1,"id":"02ba2113e7697956"}|
+==== PART 9 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"U262-061N-4BVC11.1"}|
+==== PART 10 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 11 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 12 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"CL21B106KQQNNNE.1"}|
+==== PART 13 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 14 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"0805B104K500NT_C2830721.1"}|
+==== PART 15 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"DOSIN-801-0080.1"}|
+==== PART 16 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"LMV321IDBVR.1"}|
+==== PART 17 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"RC0805JR-075K1L.1"}|
+==== PART 18 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"pid8a0e77bacb214e"}|
+==== PART 19 ====
+{"originX":0,"originY":0}|
+{"type":"PART","ticket":2,"id":"A0505S-2WR3_C5369420.1"}|
+PART count: 20
+

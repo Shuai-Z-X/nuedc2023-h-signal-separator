@@ -1,0 +1,11 @@
+signal_separator\myfft.o: ..\User\Src\myfft.c
+signal_separator\myfft.o: ../User/Inc/myfft.h
+signal_separator\myfft.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+signal_separator\myfft.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+signal_separator\myfft.o: ../Drivers/CMSIS/Include/core_cm4.h
+signal_separator\myfft.o: ../Drivers/CMSIS/Include/cmsis_version.h
+signal_separator\myfft.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+signal_separator\myfft.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+signal_separator\myfft.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+signal_separator\myfft.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+signal_separator\myfft.o: ../User/Inc/sample_config.h
