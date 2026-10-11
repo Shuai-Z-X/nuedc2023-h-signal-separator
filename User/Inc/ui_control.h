@@ -1,9 +1,5 @@
 /*
- * @Author: wzccccccc
- * @Date: 2023-08-30 16:58:21
- * @LastEditors: wzccccccc wu854065020@gmail.com
- * @FilePath: \signal_separator\User\Inc\ui_control.h
- *
+ 
  * 人机界面：240x240 SPI 液晶（ST7789），旧版接口
  *   PB3  -> SPI1_SCK      PB5  -> SPI1_MOSI
  *   PA15 -> LCD_CS        PD13 -> LCD_DC       PD12 -> LCD_BL

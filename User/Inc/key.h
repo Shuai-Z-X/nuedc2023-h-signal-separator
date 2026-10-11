@@ -1,15 +1,3 @@
-/*
- * @Author: wzccccccc
- * @Date: 2023-08-30 16:58:21
- * @LastEditors: wzccccccc wu854065020@gmail.com
- * @FilePath: \signal_separator\User\Inc\key.h
- *
- * 按键输入（按下为低电平，板上 5.1K 上拉到 3.3V，GPIO 内部再上拉）：
- *   KEY1(PC6) 短按 = 启动 / 重新测量，长按 = 相位模式 开 / 关
- *   KEY2(PC8) 短按 = 相位 +15 度，长按 = 相位 -15 度
- * 原理图(2026-09-11)上只有两个按键，原来的 KEY3/KEY4 功能合并成两个长按动作。
- * 引脚在 CubeMX 里改（标签保持 KEY1/KEY2），这里和 key.c 都不用动。
- */
 /* 2026-09-11 原理图：只有 KEY1=PC6 / KEY2=PC8 两个按键（SW-PB，5.1K 上拉到 3.3V） */
 #ifndef KEY_H_
 #define KEY_H_

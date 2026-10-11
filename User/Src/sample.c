@@ -1,11 +1,3 @@
-/*
- * @Author: wzccccccc
- * @Description: 信号处理和锁相环闭环部分
- * @Date: 2023-08-02 10:04:40
- * @LastEditors: wzccccccc wu854065020@gmail.com
- * @LastEditTime: 2024-04-01 16:40:23
- * @FilePath: \signal_separator\User\Src\sample.c
- */
 #include <string.h>
 #include <math.h>
 #include "sample.h"

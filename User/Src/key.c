@@ -1,8 +1,4 @@
 /*
- * @Author: wzccccccc
- * @Date: 2023-08-30 16:58:21
- * @LastEditors: wzccccccc wu854065020@gmail.com
- * @FilePath: \signal_separator\User\Src\key.c
  *
  * 两个按键的扫描（原理图 2026-09-11：KEY1=PC6、KEY2=PC8，按下为低电平）。
  * KEY1_GPIO_Port / KEY1_Pin 这些宏由 CubeMX 按标签生成，所以换引脚只需在 CubeMX 里改。

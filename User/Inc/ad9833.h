@@ -1,9 +1,4 @@
-/*
- * @Author: fc51005
- * @Date: 2023-08-30 16:58:21
- * @LastEditTime: 2024-04-01 14:39:26
- * @FilePath: \signal_separator\User\Inc\ad9833.h
- */
+
 
 #ifndef INC_AD9833_H_
 #define INC_AD9833_H_

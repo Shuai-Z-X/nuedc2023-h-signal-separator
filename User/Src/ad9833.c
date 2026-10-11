@@ -1,9 +1,4 @@
-/*
- * @Author: fc51005
- * @Date: 2023-08-30 16:58:21
- * @LastEditTime: 2024-04-01 14:38:37
- * @FilePath: \signal_separator\User\Src\ad9833.c
- */
+
 #include "ad9833.h"
 
 void AD9833_Select(AD9833_Handler* device)

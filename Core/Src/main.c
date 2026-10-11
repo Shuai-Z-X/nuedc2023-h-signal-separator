@@ -1,11 +1,4 @@
-/* USER CODE BEGIN Header */
-/*
- * @Author: wzccccccc
- * @Date: 2023-08-02 09:07:59
- * @LastEditors: wzccccccc wu854065020@gmail.com
- * @LastEditTime: 2024-04-01 14:32:55
- * @FilePath: \signal_separator\Core\Src\main.c
- */
+
 /**
   ******************************************************************************
   * @file           : main.c
